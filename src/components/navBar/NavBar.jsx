@@ -14,13 +14,23 @@ export const NavBar = () => {
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/nosotros">
-            Nosotros
+          <Link className="menu-link" to="/monedas">
+            Monedas
           </Link>
         </li>
         <li>
-          <Link className="menu-link" to="/monedas">
-            Monedas
+          <Link className="menu-link" to="/monedas/oro">
+            Oro
+          </Link>
+        </li>
+        <li>
+          <Link className="menu-link" to="/monedas/plata">
+            Plata
+          </Link>
+        </li>
+        <li>
+          <Link className="menu-link" to="/monedas/cobre">
+            Cobre
           </Link>
         </li>
         <li>
