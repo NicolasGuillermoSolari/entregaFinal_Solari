@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "1 cts de Patacón",
+    "price": 500,
+    "Category": "cobres",
+    "image": "https://i.colnect.net/b/6357/009/1-Centavo.jpg",
+    "stock": 3,
+    "description": "Moneda argentina antigüa de Cobre"
+  },
+  {
+    "id": "2",
+    "title": "2 cts de Patacón",
+    "price": 750,
+    "Category": "cobres",
+    "image": "https://i.colnect.net/b/6358/733/2-Centavos.jpg",
+    "stock": 6,
+    "description": "Moneda argentina antigüa de Cobre"
+  },
+  {
+    "id": "3",
+    "title": "10 ctvs de Patacón",
+    "price": 1200,
+    "Category": "plata",
+    "image": "https://i.colnect.net/b/5027/688/10-Centavos.jpg",
+    "stock": 3,
+    "description": "Moneda argentina antigüa de Plata"
+  },
+  {
+    "id": "4",
+    "title": "5 pesos de Patacón",
+    "price": 1400,
+    "Category": "niquel",
+    "image": "https://i.colnect.net/b/1081/536/5-Pesos-1-Argentino.jpg",
+    "stock": 2,
+    "description": "Moneda argentina antigüa de Niquel"
+  }
+]
